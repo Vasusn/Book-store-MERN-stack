@@ -3,7 +3,7 @@
 he "BookStoreMERNStack" project is a web application developed using the MERN stack, which stands for MongoDB, Express.js, React.js, and Node.js. This project aims to Learn MERN stack.
 ## Demo
 
-[Insert gif or link to demo](https://book-store-mern-stack-vasu.vercel.app/)
+[demo](https://book-store-mern-stack-vasu.vercel.app/)
 
 
 ## Project Structure

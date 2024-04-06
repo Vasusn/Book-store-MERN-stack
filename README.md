@@ -1,7 +1,6 @@
 # BookStoreMERNStack
 
-BookStoreMERNStack is a full-stack web application developed using the MERN stack. It allows users to manage and sell books online.
-
+he "BookStoreMERNStack" project is a web application developed using the MERN stack, which stands for MongoDB, Express.js, React.js, and Node.js. This project aims to Learn MERN stack.
 ## Demo
 
 Insert gif or link to demo
